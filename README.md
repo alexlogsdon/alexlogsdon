@@ -1,15 +1,16 @@
 ![Image of phrase, Information designer and Technical writer](/images/Profile.png)
 
-### Hello! 
+| 👋 &nbsp; &nbsp; Welcome to my portfolio. |
+|---|
 
-### I'm a designer with a background in information and museum exhibit design.
-### Now, I'm transitioning into technical writing.
+| 🤓 &nbsp; &nbsp; My professional background is information & museum exhibit design. |
+|---|
 
-```
-What do I do? Turn complex information into experiences that you can walk through, read through, comprehend, and care about. 
+| ✏&nbsp; &nbsp; Now, I'm transitioning into technical writing. |
+|---|
 
+| 🧠&nbsp; &nbsp; It's all about turning information into human experiences, no matter the medium. |
+|---|
 
-## Check out my technical writing portfolio and my design portfolio
-
-😎 🤓
-```
+| 👇&nbsp; &nbsp; Check out my writing and design work below. |
+|---|
