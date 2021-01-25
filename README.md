@@ -1,16 +1,15 @@
-### Hi there 👋
+![Image of phrase, Information designer and Technical writer](/images/Profile.png)
 
-<!--
-**alexlogsdon/alexlogsdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! 
 
-Here are some ideas to get you started:
+### I'm a designer with a background in information and museum exhibit design.
+### Now, I'm transitioning into technical writing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+What do I do? Turn complex information into experiences that you can walk through, read through, comprehend, and care about. 
+
+
+## Check out my technical writing portfolio and my design portfolio
+
+😎 🤓
+```
